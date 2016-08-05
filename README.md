@@ -10,3 +10,5 @@ Discovered something that is unclear? A typo? Or some other feedback? Create a p
 
 ## How we think about security
 
+## Workplace
+There is no reason to have your desk cluttered with papers and other stuff. The brain of humans work best when things are structured and ordered. For this reason a clean desk helps you focusing on the right things, keeping distractions to a minimum.
