@@ -16,3 +16,6 @@ Security is in our blood. For this reason we limit the amount of data we have ac
 
 ## Workplace
 There is no reason to have your desk cluttered with papers and other stuff. The brain of humans work best when things are structured and ordered. For this reason a clean desk helps you focusing on the right things, keeping distractions to a minimum.
+
+## Travel
+Travelling can be joy, or a pain. Check first with your manager what we can do regarding travelling and accomodations like hotel nights.
