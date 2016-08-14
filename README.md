@@ -22,5 +22,10 @@ Currently our main communications channel is email and direct calls (via Hangout
 
 For email usage the rule is simple: use the official address you received only. No personal accounts or servers are approved for communications with other employees and contractors.
 
+## Confidentiality
+All information received (internally and externally) is considered confidential by default. If you want to allow documents to be used by the general public, mark them as public. This does only apply to non-sensitive information. Always use personal judgement to determine if it warrants to mark something public.
+
+Exception: the website is public by default and does not have to be marked as such. The website however can't serve any confidential data.
+
 ## Travel
 Travelling can be joy, or a pain. Check first with your manager what we can do regarding travelling and accomodations like hotel nights.
