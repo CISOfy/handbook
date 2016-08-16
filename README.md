@@ -22,6 +22,9 @@ Currently our main communications channel is email and direct calls (via Hangout
 
 For email usage the rule is simple: use the official address you received only. No personal accounts or servers are approved for communications with other employees and contractors.
 
+## Productivity
+Each individual has a different set of skills and capabilities. We allow flexible work times to give everyone the opportunity to achieve maximum potential from a single day. For this reason we don't have fixed office times. We do however expect people to be responsive to direct team members. Each team has the flexibility to divide the work load. What we do ask is to question regurlarly how you can be at your best. Not just for yourself, but also be a valuable asset to your team. This includes sharing knowledge, or solving a difficult task as a team.
+
 ## Confidentiality
 All information received (internally and externally) is considered confidential by default. If you want to allow documents to be used by the general public, mark them as public. This does only apply to non-sensitive information. Always use personal judgement to determine if it warrants to mark something public.
 
