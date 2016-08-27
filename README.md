@@ -26,6 +26,17 @@ For email usage the rule is simple: use the official address you received only. 
 ## Productivity
 Each individual has a different set of skills and capabilities. We allow flexible work times to give everyone the opportunity to achieve maximum potential from a single day. For this reason we don't have fixed office times. We do however expect people to be responsive to direct team members. Each team has the flexibility to divide the work load. What we do ask is to question regurlarly how you can be at your best. Not just for yourself, but also be a valuable asset to your team. This includes sharing knowledge, or solving a difficult task as a team.
 
+## Meetings
+For all internal meetings:
+* Be there 5 minutes before start of meeting
+* Maximum time of a meeting is 45 minutes
+* Agenda should be available at least 24 hours before meeting
+* The agenda should contain points of discussion and expected outcomes
+* No agenda = no meeting
+* One person will take meeting notes
+
+Meetings with customers, partners, and suppliers can take any amount of time. This is allowed to account for questions and that the other party may not be familiar with our strict rules. In any case, take meeting notes and send out an agenda when we are the organizing party.
+
 ## Confidentiality
 All information received (internally and externally) is considered confidential by default. If you want to allow documents to be used by the general public, mark them as public. This does only apply to non-sensitive information. Always use personal judgement to determine if it warrants to mark something public.
 
