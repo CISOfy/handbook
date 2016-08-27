@@ -20,7 +20,8 @@ There is no reason to have your desk cluttered with papers and other stuff. The 
 ## Communications
 Currently our main communications channel is email and direct calls (via Hangouts, Skype, or phone). Due to development and possible sensitive details we discuss, other communication channels can not be used.
 
-For email usage the rule is simple: use the official address you received only. No personal accounts or servers are approved for communications with other employees and contractors.
+### Email
+For email usage the rule is simple: use the official address you received only. No personal accounts or servers are approved for communications with other employees and contractors. Use your work email address for business, your private email address(es) for private matters.
 
 ## Productivity
 Each individual has a different set of skills and capabilities. We allow flexible work times to give everyone the opportunity to achieve maximum potential from a single day. For this reason we don't have fixed office times. We do however expect people to be responsive to direct team members. Each team has the flexibility to divide the work load. What we do ask is to question regurlarly how you can be at your best. Not just for yourself, but also be a valuable asset to your team. This includes sharing knowledge, or solving a difficult task as a team.
