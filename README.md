@@ -8,7 +8,7 @@ Discovered something that is unclear? A typo? Or some other feedback? Create a p
 
 ## Ethics and integrity
 
-From every employee of CISOfy we expect ethical behavior. This means you won't do activities that harm others on purpose. Every action you take, from development to sales, should be tested against the common believes of what is ethical. For this same reason we expect employees to have a high level of integrity. You do those things that are good for society, help others where needed, and don't make other people feel less important than yourself.
+From every employee of CISOfy we expect ethical behavior. This means you won't do activities that harm others on purpose. Every action you take, from development to sales, should be tested against the common believes of what is ethical. For this same reason we expect employees to have a high level of integrity. This applies to both your professional and private activities. Do those things that are good for society, help others where needed, and don't make other people feel less important than yourself. Fraud and unethical behavior can result in direct termination of your contract.
 
 ## How we think about security
 
