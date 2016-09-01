@@ -44,3 +44,9 @@ Exception: the website is public by default and does not have to be marked as su
 
 ## Travel
 Travelling can be joy, or a pain. Check first with your manager what we can do regarding travelling and accomodations like hotel nights.
+
+## Handling Data
+One of the most precious assest to each company are people and data. Together they can provide a business advantage. That is why we consider each piece of data as a delicate thing that needs to be treated correctly. When dealing with data, from orders to log events, keep them internally and confidential by default. Store only data when really needed, destroy data as soon as possible when it has no longer its value.
+
+When possible, mark sensitive data as 'confidential'. Also mark 'public' data, like a presentation you give at a conference, as such. All data that is not marked, should be treated as confidential.
+
