@@ -1,12 +1,17 @@
 # CISOfy Handbook
 
-## Your first day
+## Your first day and beyond
 
 It is a great pleasure that you joined our company. As with every activity, it is usually the start that is the most difficult. Where and how to start is available in this handbook. It will guide you through your first day and the many days following.
 
 Discovered something that is unclear? A typo? Or some other feedback? Create a pull request and become a crucial part of this handbook.
 
-## Ethics and integrity
+## Values
+
+### Transparancy
+Our customers, partners, and colleagues should be able to rely on our work and word. Being open is important, which is also the reason this handbook is available to the world. Although we have confidential data, our way of working should be transparant.
+
+### Ethics and integrity
 
 From every employee of CISOfy we expect ethical behavior. This means you won't do activities that harm others on purpose. Every action you take, from development to sales, should be tested against the common believes of what is ethical. For this same reason we expect employees to have a high level of integrity. This applies to both your professional and private activities. Do those things that are good for society, help others where needed, and don't make other people feel less important than yourself. Fraud and unethical behavior can result in direct termination of your contract.
 
