@@ -8,6 +8,9 @@ Discovered something that is unclear? A typo? Or some other feedback? Create a p
 
 ## Values
 
+### Be awesome
+Be the best person you can be. That starts with being good for yourself, our customers, partners, team members, and community.
+
 ### Transparancy
 Our customers, partners, and colleagues should be able to rely on our work and word. Being open is important, which is also the reason this handbook is available to the world. Although we have confidential data, our way of working should be transparant.
 
@@ -29,7 +32,14 @@ Currently our main communications channel is email and direct calls (via Hangout
 For email usage the rule is simple: use the official address you received only. No personal accounts or servers are approved for communications with other employees and contractors. Use your work email address for business, your private email address(es) for private matters.
 
 ## Productivity
-Each individual has a different set of skills and capabilities. We allow flexible work times to give everyone the opportunity to achieve maximum potential from a single day. For this reason we don't have fixed office times. We do however expect people to be responsive to direct team members. Each team has the flexibility to divide the work load. What we do ask is to question regurlarly how you can be at your best. Not just for yourself, but also be a valuable asset to your team. This includes sharing knowledge, or solving a difficult task as a team.
+
+### Results
+We care about achievements: the improvements to documentation, your code, or helping out a customer with a phone call. It is not the hours you put into it, but what you achieve.
+
+### Flexible time
+Each individual has a different set of skills and capabilities. We allow flexible work times to give everyone the opportunity to achieve maximum potential from a single day. For this reason we don't have fixed office times.
+
+Even with flexible timing we expect everyone to be responsive to direct team members. Each team has the flexibility to divide the work load.
 
 ## Meetings
 For all internal meetings:
