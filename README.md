@@ -65,3 +65,5 @@ One of the most precious assest to each company are people and data. Together th
 
 When possible, mark sensitive data as 'confidential'. Also mark 'public' data, like a presentation you give at a conference, as such. All data that is not marked, should be treated as confidential.
 
+See the [security policy](https://github.com/CISOfy/cisofy-security-policy) for more details.
+
